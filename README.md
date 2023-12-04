@@ -1,4 +1,4 @@
-# SQL_Analysis_Project
+# SQL_Bank_Analysis_Project
 
 ### Description:
 BANK ANALYSIS PROJECT WITH SQL (MICROSOFT SQL SERVER)
